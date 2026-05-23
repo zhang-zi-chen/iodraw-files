@@ -41,7 +41,7 @@
           <mxGeometry x="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-17" value="负责人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="305" y="125" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-19" value="预定编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-420" y="710" width="120" height="80" as="geometry" />
@@ -94,7 +94,10 @@
         <mxCell id="qqbqJK-WyI7evLmL6dx0-45" value="房间编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qqbqJK-WyI7evLmL6dx0-46" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qqbqJK-WyI7evLmL6dx0-46" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qqbqJK-WyI7evLmL6dx0-47" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
