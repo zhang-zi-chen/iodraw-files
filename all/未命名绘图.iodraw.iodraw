@@ -35,7 +35,7 @@
           <mxGeometry x="480" y="-150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-13" value="房间编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="840" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="780" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-14" value="房间号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="130" width="120" height="80" as="geometry" />
