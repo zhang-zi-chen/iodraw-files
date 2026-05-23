@@ -43,9 +43,6 @@
         <mxCell id="qqbqJK-WyI7evLmL6dx0-15" value="客户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="80" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qqbqJK-WyI7evLmL6dx0-16" value="楼层" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="375" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-17" value="负责人" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="240" width="120" height="80" as="geometry" />
         </mxCell>
@@ -77,7 +74,7 @@
           <mxGeometry x="90" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-26" value="押金" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="650" width="120" height="80" as="geometry" />
+          <mxGeometry x="330" y="570" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-28" value="入住时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="550" width="120" height="80" as="geometry" />
@@ -102,6 +99,9 @@
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.904;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qqbqJK-WyI7evLmL6dx0-31" target="qqbqJK-WyI7evLmL6dx0-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqbqJK-WyI7evLmL6dx0-39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
