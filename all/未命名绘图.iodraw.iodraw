@@ -97,7 +97,10 @@
         <mxCell id="qqbqJK-WyI7evLmL6dx0-46" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qqbqJK-WyI7evLmL6dx0-47" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qqbqJK-WyI7evLmL6dx0-47" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qqbqJK-WyI7evLmL6dx0-48" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
