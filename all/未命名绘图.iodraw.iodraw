@@ -95,13 +95,16 @@
           <mxGeometry x="-290" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-40" value="房间编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="860" width="120" height="80" as="geometry" />
+          <mxGeometry x="-320" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-41" value="客户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="890" width="120" height="80" as="geometry" />
+          <mxGeometry x="-140" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qqbqJK-WyI7evLmL6dx0-42" value="入住状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qqbqJK-WyI7evLmL6dx0-44" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
