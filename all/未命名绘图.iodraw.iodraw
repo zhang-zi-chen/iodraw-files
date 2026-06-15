@@ -165,7 +165,7 @@
           <mxGeometry x="655" y="120" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-30" value="客房信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="580" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="520" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-31" value="房间号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="350" width="120" height="80" as="geometry" />
@@ -204,6 +204,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-41" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkD-QHVdOuzmGq4wUSuL-36" target="kkD-QHVdOuzmGq4wUSuL-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="610" as="sourcePoint" />
+            <mxPoint x="640" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kkD-QHVdOuzmGq4wUSuL-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="610" as="sourcePoint" />
             <mxPoint x="640" y="560" as="targetPoint" />
