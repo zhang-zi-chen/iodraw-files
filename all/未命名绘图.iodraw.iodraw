@@ -344,7 +344,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-71" value="管理员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
