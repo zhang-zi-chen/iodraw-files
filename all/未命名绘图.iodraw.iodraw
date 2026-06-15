@@ -288,7 +288,7 @@
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-89" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kkD-QHVdOuzmGq4wUSuL-60">
           <mxGeometry x="0.235" y="-5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-61" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -416,6 +416,9 @@
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-88" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="598" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kkD-QHVdOuzmGq4wUSuL-90" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="715" y="548" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
