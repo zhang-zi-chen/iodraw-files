@@ -350,10 +350,10 @@
           <mxGeometry x="670" y="890" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-75" value="角色权限" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="970" y="920" width="120" height="80" as="geometry" />
+          <mxGeometry x="1030" y="870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-76" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="870" width="120" height="80" as="geometry" />
+          <mxGeometry x="1180" y="840" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-77" value="登陆密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1210" y="700" width="120" height="80" as="geometry" />
@@ -376,7 +376,7 @@
             <mxPoint x="640" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kkD-QHVdOuzmGq4wUSuL-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.425;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.792;exitY=0.138;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkD-QHVdOuzmGq4wUSuL-75" target="kkD-QHVdOuzmGq4wUSuL-71">
+        <mxCell id="kkD-QHVdOuzmGq4wUSuL-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.425;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkD-QHVdOuzmGq4wUSuL-75" target="kkD-QHVdOuzmGq4wUSuL-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="910" as="sourcePoint" />
             <mxPoint x="640" y="860" as="targetPoint" />
