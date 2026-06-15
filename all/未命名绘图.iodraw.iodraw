@@ -14,22 +14,22 @@
           <mxGeometry x="10" y="140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ieupzs1FNCxawon9xE8N-4" value="押金" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="180" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ieupzs1FNCxawon9xE8N-5" value="入住时间" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ieupzs1FNCxawon9xE8N-6" value="客户ID" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="440" y="160" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ieupzs1FNCxawon9xE8N-7" value="客房ID" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ieupzs1FNCxawon9xE8N-9" value="&lt;u&gt;入住ID&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="10" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ieupzs1FNCxawon9xE8N-10" value="入住信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
