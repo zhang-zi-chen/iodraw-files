@@ -89,7 +89,7 @@
             <mxPoint x="640" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kkD-QHVdOuzmGq4wUSuL-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kkD-QHVdOuzmGq4wUSuL-10" value="客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kkD-QHVdOuzmGq4wUSuL-1" target="kkD-QHVdOuzmGq4wUSuL-10">
