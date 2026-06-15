@@ -39,7 +39,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kkD-QHVdOuzmGq4wUSuL-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kkD-QHVdOuzmGq4wUSuL-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="420" as="sourcePoint" />
+            <mxPoint x="640" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
